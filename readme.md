@@ -8,9 +8,12 @@ List of interesting projects/frameworks/libraries for front-end development
 - [Typed.js](http://www.mattboldt.com/demos/typed-js/): Library that does typing animations
 - [Immutable](https://facebook.github.io/immutable-js/): Immutable data structures
 - [Redux](http://redux.js.org/): State container for JS apps
+- [Metal.js](https://github.com/metal/metal.js) : Build UI components in a solid and flexible way
 
 ## UI Frameworks ##
 - [Bootflat](http://bootflat.github.io/): Flat UI kit for Bootstrap
 
 ## Icons ##
 - [Skycons](https://darkskyapp.github.io/skycons/): Animated weather glyphs
+
+
