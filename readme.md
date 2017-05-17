@@ -9,6 +9,7 @@ List of interesting projects/frameworks/libraries for front-end development.
 - [Immutable](https://facebook.github.io/immutable-js/): Immutable data structures
 - [Redux](http://redux.js.org/): State container for JS apps
 - [Metal.js](https://github.com/metal/metal.js) : Build UI components in a solid and flexible way
+- [Plax](https://github.com/cameronmcefee/plax) : JQuery Parallaxing
 
 ## Video & Image ##
 - [Plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
@@ -16,6 +17,9 @@ List of interesting projects/frameworks/libraries for front-end development.
 ## Charts & Data ##
 - [D3](https://d3js.org): D3.js is a JavaScript library for manipulating documents based on data
 - [HighCharts](https://www.highcharts.com/): Interactive charts
+
+## Maps ##
+- [LeafletJs](http://leafletjs.com/): Mobile friendly, interactive maps
 
 ## UI Frameworks ##
 - [Bootflat](http://bootflat.github.io/): Flat UI kit for Bootstrap
