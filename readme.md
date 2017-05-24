@@ -10,6 +10,7 @@ List of interesting projects/frameworks/libraries for front-end development.
 - [Redux](http://redux.js.org/): State container for JS apps
 - [Metal.js](https://github.com/metal/metal.js) : Build UI components in a solid and flexible way
 - [Plax](https://github.com/cameronmcefee/plax) : JQuery Parallaxing
+- [ProgressBarJs](https://github.com/kimmobrunfeldt/progressbar.js) : Responsive and slick progress bars
 
 ## Video & Image ##
 - [Plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
