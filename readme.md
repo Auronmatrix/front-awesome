@@ -12,6 +12,11 @@ List of interesting projects/frameworks/libraries for front-end development.
 - [Plax](https://github.com/cameronmcefee/plax) : JQuery Parallaxing
 - [ProgressBarJs](https://github.com/kimmobrunfeldt/progressbar.js) : Responsive and slick progress bars
 
+## Frameworks ##
+
+### React ###
+- [Relay](https://facebook.github.io/relay/) : A JavaScript framework for building data-driven React applications
+
 ## Video & Image ##
 - [Plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
 
