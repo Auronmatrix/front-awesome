@@ -11,7 +11,9 @@ List of interesting projects/frameworks/libraries for front-end development.
 - [Metal.js](https://github.com/metal/metal.js) : Build UI components in a solid and flexible way
 - [Plax](https://github.com/cameronmcefee/plax) : JQuery Parallaxing
 - [ProgressBarJs](https://github.com/kimmobrunfeldt/progressbar.js) : Responsive and slick progress bars
-
+- [Classnames](http://jedwatson.github.io/classnames/) : A simple javascript utility for conditionally joining classNames together
+ 
+ 
 ## Frameworks ##
 
 ### React ###
