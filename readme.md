@@ -16,6 +16,8 @@ List of interesting projects/frameworks/libraries for front-end development.
 
 ### React ###
 - [Relay](https://facebook.github.io/relay/) : A JavaScript framework for building data-driven React applications
+- [Styled-Components](https://www.styled-components.com/) : Visual primitives for styling React components
+
 
 ## Video & Image ##
 - [Plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
