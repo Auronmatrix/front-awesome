@@ -12,8 +12,10 @@ List of interesting projects/frameworks/libraries for front-end development.
 - [Plax](https://github.com/cameronmcefee/plax) : JQuery Parallaxing
 - [ProgressBarJs](https://github.com/kimmobrunfeldt/progressbar.js) : Responsive and slick progress bars
 - [Classnames](http://jedwatson.github.io/classnames/) : A simple javascript utility for conditionally joining classNames together
- 
- 
+- [JqConsole](http://replit.github.io/jq-console/) : A jQuery terminal plugin written in CoffeeScript 
+- [HyperApp](https://github.com/hyperapp/hyperapp) : 1 KB JavaScript library for building frontend applications
+
+
 ## Frameworks ##
 
 ### React ###
@@ -22,25 +24,27 @@ List of interesting projects/frameworks/libraries for front-end development.
 
 
 ## Video & Image ##
-- [Plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
+- [Plyr](https://github.com/sampotts/plyr) : A simple HTML5, YouTube and Vimeo player
+- [ProcessingJs](http://processingjs.org/) : JavaScript port of Processing, a programming language designed to write visualizations, images, and interactive content
 
 ## Charts & Data ##
 - [D3](https://d3js.org): D3.js is a JavaScript library for manipulating documents based on data
-- [HighCharts](https://www.highcharts.com/): Interactive charts
+- [HighCharts](https://www.highcharts.com/) : Interactive charts
 
 ## Maps ##
-- [LeafletJs](http://leafletjs.com/): Mobile friendly, interactive maps
+- [LeafletJs](http://leafletjs.com/) : Mobile friendly, interactive maps
 
 ## UI Frameworks ##
-- [Bootflat](http://bootflat.github.io/): Flat UI kit for Bootstrap
-- [Skeleton](http://getskeleton.com): Light weight responsive framework
+- [Bootflat](http://bootflat.github.io/) : Flat UI kit for Bootstrap
+- [Skeleton](http://getskeleton.com) : Light weight responsive framework
+- [UIKit](https://getuikit.com/) : A lightweight and modular front-end framework for developing fast and powerful web interfaces
 
 ## Icons ##
-- [Skycons](https://darkskyapp.github.io/skycons/): Animated weather glyphs
+- [Skycons](https://darkskyapp.github.io/skycons/) : Animated weather glyphs
 
 ## Analytics ##
 
-- [Roistat](https://www.roistat.com): Multi-platform analytics tool
+- [Roistat](https://www.roistat.com) : Multi-platform analytics tool
 
 ## Build Tools ##
 - [Prepack](https://prepack.io/) : Optimizes javascript source code
