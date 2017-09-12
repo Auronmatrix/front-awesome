@@ -18,6 +18,7 @@ List of interesting projects/frameworks/libraries for development.
 - [SlidoutJs](https://slideout.js.org/) : A touch slideout navigation menu for your mobile web apps
 - [EggJs](https://github.com/mikeflynn/egg.js) : Jquery easter egg library
 - [Stream](https://getstream.io/) : Build Scalable Newsfeeds & activity streams
+- [Pen](https://github.com/sofish/pen) : Live editing + markdown support
 
 ## Frameworks ##
 
