@@ -19,7 +19,7 @@ List of interesting projects/frameworks/libraries for development.
 - [EggJs](https://github.com/mikeflynn/egg.js) : Jquery easter egg library
 - [Stream](https://getstream.io/) : Build Scalable Newsfeeds & activity streams
 - [Pen](https://github.com/sofish/pen) : Live editing + markdown support
-
+- [Ku Dos](http://kudosplease.com/) : Simple, kudos one widget element for showing respect/saying thanks
 ## Frameworks ##
 
 ### React ###
