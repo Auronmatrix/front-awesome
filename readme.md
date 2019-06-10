@@ -26,6 +26,9 @@ List of interesting projects/frameworks/libraries for development.
 - [Relay](https://facebook.github.io/relay/) : A JavaScript framework for building data-driven React applications
 - [Styled-Components](https://www.styled-components.com/) : Visual primitives for styling React components
 
+### React - dApps ###
+- [Rimble Design System](https://rimble.consensys.design/) : Adaptable components and design standards for decentralized applications.
+
 ## Video & Image ##
 - [Plyr](https://github.com/sampotts/plyr) : A simple HTML5, YouTube and Vimeo player
 - [ProcessingJs](http://processingjs.org/) : JavaScript port of Processing, a programming language designed to write visualizations, images, and interactive content
